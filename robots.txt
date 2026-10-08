@@ -1,0 +1,4 @@
+User-agent: *
+Allow: /
+
+Sitemap: https://katdoc.com.ve/sitemap.xml

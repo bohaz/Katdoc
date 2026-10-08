@@ -603,6 +603,23 @@ footer a:hover{
   color:#fff;
 }
 
+.credito{
+  flex:0 0 100%;
+  font-size:.85rem;
+  opacity:.7;
+  transition:opacity .2s ease;
+}
+
+.credito:hover{
+  opacity:1;
+}
+
+.credito a{
+  color:inherit;
+  text-decoration:underline;
+  text-underline-offset:3px;
+}
+
 /* =========================
    WHATSAPP
 ========================= */
